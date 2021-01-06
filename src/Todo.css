@@ -1,0 +1,25 @@
+.todo__boldText{
+    font-size: large;
+    color: rgb(46, 46, 46);
+}
+
+.todo__card{
+    width: fit-content;
+    margin-top: 1rem ;
+    border: none !important;
+}
+
+.todo_deleteButton{
+    margin-right: 1rem;
+}
+
+
+.todo_cardContent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 !important;
+    padding: 0.7rem 1rem !important;
+    background-color: rgb(224, 224, 224);
+    border-radius: 1rem;
+}
